@@ -17,8 +17,7 @@ microstructure, which is calibrated using the reticule and allows estimation of 
 
 <img src = "images\img_1.png"><br>
 
-Figure 1: Schematic showing microstructure with: a) Homogeneous grains and size, and (b) 
-Heterogenous grain size. <br>
+<b>Figure 1: Schematic showing microstructure with: a) Homogeneous grains and size, and (b) Heterogenous grain size. </b><br><br>
 From the scale bar provided in Figure 2, now one can estimate the grain size to be ~13 µm. 
 In other words, the insertion of scale bar has now provided the ability to ‘quantify’ the grain 
 size. In this case, the grains are homogeneous and possess same grain size. But, in many 
@@ -26,7 +25,7 @@ cases the grains are heterogeneous and an average grain size, or grain distribut
 be estimated.<br>
 
 <img src = "images\img_2.png"><br>
-Figure 2: Schematic of microstructure with an inserted scale bar to estimate the grain size. <br>
+<b>Figure 2: Schematic of microstructure with an inserted scale bar to estimate the grain size. </b><br>
 
 <b>Grain Size Measurement: </b><br>
 There are multiple ways of estimating grain size. The first outlook is to ‘guess’ an estimate 
@@ -37,6 +36,7 @@ size, (ii) Jeffries method, (iii) Triple Point method, and (iv) Image Analysis (
 Experiment 10). <br>
 
 <img src = "images\img_3.png"><br>
+<b>Figure 3: Grain size estimation in a microstructure with non-uniform grains.</b> <br>
 
 <b>(i) ASTM grain size measurement </b><br>
 ASTM grain size is given as : <br>
@@ -113,7 +113,7 @@ G<sub>A/V</sub> = N/L <br>
 Where N is the number of intersections with grain boundary per unit length (L). <br>
 
 <img src = "images\img_4.png"><br>
-Figure 5: Grain boundary area intersections are marked with filled circles (weight of 1 each), whereas the triple point region is marked with a hollow circle (weight of 1.5)<br>
+<b>Figure 4: Grain boundary area intersections are marked with filled circles (weight of 1 each), whereas the triple point region is marked with a hollow circle (weight of 1.5)</b><br>
 
-From Figure 5, grain boundary area = {2×(1.5)+ 7)}/125.6 = 10/125.6  <br>
+From Figure 4, grain boundary area = {2×(1.5)+ 7)}/125.6 = 10/125.6  <br>
 = 0.08/µm or 80 /mm or 80 mm<sup>2</sup>/mm<sup>3</sup>
