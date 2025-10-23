@@ -39,7 +39,7 @@ Experiment 10). <br>
 <img src = "images\img_3.png"><br>
 
 <b>(i) ASTM grain size measurement </b><br>
-ASTM grain size is given as  <br>
+ASTM grain size is given as : <br>
 N=2<sup>n-1</sup> <br>
 
 where <b>N</b> is the number of grains at 100x in 1 in<sup>2</sup> area, and n is the ASTM Grain Size. 
@@ -48,7 +48,7 @@ times along each of x and y-axes, the value of N should be divided by 2<sup>2</s
 number of grains that would be visible in that area at 100×. Similarly, if the magnification is 
 say 500×, then each side is reduced by 5 times, and the number of grains at 100× would have 
 been 5<sup>2</sup> (or 25 times) more at 100×. So, magnification should be properly accounted for (in 1 
-in<sup>2</sup> area) for estimating ASTM grain size. <br><br>
+in<sup>2</sup> area) for estimating ASTM grain size. <br>
 
 It may also be noted that <b>‘Comparison method’</b> can also be used to visually compare the 
 microstructure of a specimen to a series of graded images or charts of known grain sizes. 
@@ -65,27 +65,22 @@ magnification to obtain number of grains per mm<sup>2</sup> (N<sub>A</sub>). <br
 
 N<sub>A</sub> = 𝑀<sup>2</sup>/5000 (𝑛<sub>1</sub>+𝑛<sub>2</sub>/2) <br>
 
-Now average grain area (Ā), with units of mm<sup>2</sup>, is obtained as 1/N<sub>A</sub>. <br>
-For average grain area in µm<sup>2</sup>,  <br>
-Ā (µm<sup>2</sup>) = 10<sup>6</sup>/NN<sub>A</sub> <br><br>
+Now average grain area (Ā), with units of mm<sup>2</sup>, is obtained as 1/N<sub>A</sub>. For average grain area in µm<sup>2</sup>,  <br>
+
+Ā (µm<sup>2</sup>) = 10<sup>6</sup>/N<sub>A</sub> <br><br>
 
 Or mean diameter (d) is given as: <br>
-
 d̄(𝜇𝑚) = (𝐴̅)<sup>1/2</sup> = 10<sup>3</sup>/𝑁<sub>A</sub><sup>1/2</sup> <br><br>
 
-As the ASTM grain size is given as <br>
+As the ASTM grain size is given as :<br>
 N=2<sup>n-1</sup> <br>
 
-Where <b>N</b> is the number of grains at 100x in 1 in<sup>2</sup> area, and <b>n</b> is the ASTM Grain Size. <br>
-
-Or taking log both sides, we get <br>
+Where <b>N</b> is the number of grains at 100x in 1 in<sup>2</sup> area, and <b>n</b> is the ASTM Grain Size. Or taking log both sides, we get <br>
 
 or log N = (n-1) log 2 <br>
 or 𝑛 = (log𝑁/log2) + 1 <br>
-----------------------------------------------------------------
-If the grains are calculated in in2 area at 100 × magnification (for N), and need to be converted to per mm<sup>2</sup> at 1× magnification (<b>N<sub>A</sub></b>), then  <br><br>
 
-
+If the grains are calculated in in2 area at 100 × magnification (for N), and need to be converted to per mm<sup>2</sup> at 1× magnification (<b>N<sub>A</sub></b>), then  <br>
 N = N<sub>A</sub> (25.4/100)<sup>2</sup>  <br>
 
 Now n = (log N<sub>A</sub> (25.4/100)<sup>2</sup> / log 2 ) + 1 <br>
@@ -96,7 +91,7 @@ n = 3.32 log N<sub>A</sub> − 3.95 + 1  <br>
 
 n = 3.32 log N<sub>A</sub> − 2.95  <br>
 
-Please note that NA is the number of grains in 1 mm<sup>2</sup> area at 1× magnification. Thus, now the ASTM grain size (<b>n</b>) can be calculated from number of grains per mm<sup>2</sup> at 1× magnification via Jeffries method. <br><br>
+Please note that N<sub>A</sub> is the number of grains in 1 mm<sup>2</sup> area at 1× magnification. Thus, now the ASTM grain size (<b>n</b>) can be calculated from number of grains per mm<sup>2</sup> at 1× magnification via Jeffries method. <br><br>
 
 <b>(iii) Triple Point Method:</b> <br>
 
@@ -108,7 +103,6 @@ N<sub>A</sub> = (p/2) + 1 / A<sub>T</sub> <br>
 where A<sub>T</sub> is the area at 1× magnification. <br>
 
 The ASTM grain size, (n) is obtained as:  <br>
-
 n = 3.322 log ((p/2) + 1 / A<sub>T</sub>) - 2.95<br><br>
 
 <b>Grain Boundary Measurement:</b><br>
