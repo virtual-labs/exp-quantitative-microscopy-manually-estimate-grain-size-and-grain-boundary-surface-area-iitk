@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. When analyzing a polished and etched metallurgical sample under a microscope, what features are made visible for measuring grain size? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Voids and inclusions",
+        "b": "Micro-cracks",
+        "c": "Grain boundaries and twin lines",
+        "d": "Surface scratches from polishing"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation ",
+        "b": " Explanation ",
+        "c": " Explanation ",
+        "d": " Explanation "
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. You have drawn five random lines while using the Intercept Method to measure grain size. If the total length of 250 mm on a micrograph and count 100 grain boundary intercepts. If the magnification is 200×, what is the mean intercept length (L) in micrometers (µm)? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1.25 µm ",
+        "b": "5 µm ",
+        "c": "12.5 µm ",
+        "d": "25 µm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation ",
+        "b": " Explanation ",
+        "c": " Explanation ",
+        "d": " Explanation "
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which tool is used in <b>‘comparison method’</b> for grain size measurement:",
+      "answers": {
+        "a": "A stage micrometer",
+        "b": "Image analysis software",
+        "c": "Standard grain size charts ",
+        "d": "A spectrophotometer "
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": " Explanation ",
+        "c": " Explanation ",
+        "d": " Explanation "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. A higher ASTM grain size number (n) corresponds to: ",
+      "answers": {
+        "a": "bigger grains and different number at 100× magnification",
+        "b": "smaller grains and different number at 100× magnification",
+        "c": "same grain size, but magnification of observation is higher",
+        "d": "same grain size, but magnification of observation is lower"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": " Explanation ",
+        "c": " Explanation ",
+        "d": " Explanation "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What is a major disadvantage of the intercept method for measuring grain size?",
+      "answers": {
+        "a": "It is only applicable to grain size bigger than 100µm",
+        "b": "It does not provide information about the grain shape",
+        "c": "It is a very time-consuming process",
+        "d": "It overestimates the true grain size"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": " Explanation ",
+        "c": " Explanation ",
+        "d": " Explanation "
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
