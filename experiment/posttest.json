@@ -2,35 +2,103 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. In the Jeffries' procedure, how are grains that are intersected by the test circle handled? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "They are given the weightage of two",
+        "b": "They are counted as full grains",
+        "c": "They are counted as half",
+        "d": "They are subtracted from the total count. "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. When performing quantitative grain size analysis, what is the significance of using a higher magnification (e.g., 500×) compared to a lower one (e.g., 100×)?",
+      "answers": {
+        "a": "It is only used for comparison methods, not for measurement",
+        "b": "It allows for a more accurate count of very fine grains ",
+        "c": "It is a required step for all ASTM grain size measurement procedures",
+        "d": "It reduces the need for multiple measurements "
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. Which of the following is NOT a standard procedure for determining grain size? ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Comparison method",
+        "b": "Intercept method",
+        "c": "Area fraction method ",
+        "d": "Jeffries' procedure method "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. For a material with a known ASTM grain size number (<b>n</b>), the average number of grains per square inch at a magnification of 100× (<b>N</b>) is calculated using which formula? ",
+      "answers": {
+        "a": "N = 2<sup>n-1</sup>",
+        "b": "N = 2<sup>n+1</sup>",
+        "c": "N = n + 100",
+        "d": "N = 2n"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What is the primary purpose of using the intercept method for grain size measurement? ",
+      "answers": {
+        "a": "To determine the percentage of different phases in a microstructure",
+        "b": "To count the number of grain boundaries intersecting a test line",
+        "c": "To measure the total area of all grains in a micrograph ",
+        "d": "To visually compare the microstructure to a standard chart"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+       {
+      "question": "6. Jeffries method for grain size measurement involves: ",
+      "answers": {
+        "a": "Comparing the microstructure to a standardized chart",
+        "b": "Counting the number of grain boundary intersections with a line of known length ",
+        "c": "Counting the number of grains completely inside and those intersecting the perimeter of a known area ",
+        "d": "Calculating the mean intercept length of the grains"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
