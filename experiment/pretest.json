@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. When analyzing a polished and etched metallurgical sample under a microscope, what features are made visible for measuring grain size? ",
+      "question": "1. When analyzing a polished and etched metallurgical sample under a microscope, what features are made visible for measuring grain size ? ",
       "answers": {
         "a": "Voids and inclusions",
         "b": "Micro-cracks",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. You have drawn five random lines while using the Intercept Method to measure grain size. If the total length of 250 mm on a micrograph and count 100 grain boundary intercepts. If the magnification is 200×, what is the mean intercept length (L) in micrometers (µm)? ",
+      "question": "2. You have drawn five random lines while using the Intercept Method to measure grain size. If the total length of 250 mm on a micrograph and count 100 grain boundary intercepts. If the magnification is 200×, what is the mean intercept length (L) in micrometers (µm) ? ",
       "answers": {
         "a": "1.25 µm ",
         "b": "5 µm ",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. Which tool is used in <b>‘comparison method’</b> for grain size measurement:",
+      "question": "3. Which tool is used in <b>‘comparison method’</b> for grain size measurement :",
       "answers": {
         "a": "A stage micrometer",
         "b": "Image analysis software",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4. A higher ASTM grain size number (n) corresponds to: ",
+      "question": "4. A higher ASTM grain size number (n) corresponds to : ",
       "answers": {
         "a": "bigger grains and different number at 100× magnification",
         "b": "smaller grains and different number at 100× magnification",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5. What is a major disadvantage of the intercept method for measuring grain size?",
+      "question": "5. What is a major disadvantage of the intercept method for measuring grain size ?",
       "answers": {
         "a": "It is only applicable to grain size bigger than 100µm",
         "b": "It does not provide information about the grain shape",
