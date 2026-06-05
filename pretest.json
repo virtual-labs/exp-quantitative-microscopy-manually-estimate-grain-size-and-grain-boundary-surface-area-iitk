@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. When analyzing a polished and etched metallurgical sample under a microscope, what features are made visible for measuring grain size ? ",
+      "answers": {
+        "a": "Voids and inclusions",
+        "b": "Micro-cracks",
+        "c": "Grain boundaries and twin lines",
+        "d": "Surface scratches from polishing"
+      },
+     "explanations":{
+        "a": "Incorrect — voids and inclusions may be visible but are not the primary features used for grain size measurement.",
+  "b": "Incorrect — micro-cracks are defects, not features used for standard grain size analysis.",
+  "c": "Correct — grain boundaries (and sometimes twin lines) are revealed after etching and are used to measure grain size in metallography.",
+  "d": "Incorrect — surface scratches are preparation artifacts and are removed/ignored before analysis."
+},
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. You have drawn five random lines while using the Intercept Method to measure grain size. If the total length of 250 mm on a micrograph and count 100 grain boundary intercepts. If the magnification is 200×, what is the mean intercept length (L) in micrometers (µm) ? ",
+      "answers": {
+        "a": "1.25 µm ",
+        "b": "5 µm ",
+        "c": "12.5 µm ",
+        "d": "25 µm"
+      },
+      "explanations": {
+         "a": "Incorrect — 1.25 µm is too small; it results from incorrect scaling or division.",
+  "b": "Incorrect — 5 µm does not match the correct intercept length calculation.",
+  "c": "Correct — Mean intercept length L = (Total length / number of intercepts) ÷ magnification = (250 mm / 100) ÷ 200 = 2.5 mm ÷ 200 = 0.0125 mm = 12.5 µm.",
+  "d": "Incorrect — 25 µm is larger than the correctly computed value and comes from miscalculation."
+},
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which tool is used in <b>‘comparison method’</b> for grain size measurement :",
+      "answers": {
+        "a": "A stage micrometer",
+        "b": "Image analysis software",
+        "c": "Standard grain size charts ",
+        "d": "A spectrophotometer "
+      },
+      "explanations": {
+        "a": "Incorrect — a stage micrometer is used for calibration and measurement, not for visual comparison of grain size.",
+  "b": "Incorrect — image analysis software is used in automated or digital methods, not the traditional comparison method.",
+  "c": "Correct — standard grain size charts are used in the comparison method to visually match the microstructure with known reference images.",
+  "d": "Incorrect — a spectrophotometer measures light absorption or intensity, not grain size."
+},
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. A higher ASTM grain size number (n) corresponds to : ",
+      "answers": {
+        "a": "bigger grains and different number at 100× magnification",
+        "b": "smaller grains and different number at 100× magnification",
+        "c": "same grain size, but magnification of observation is higher",
+        "d": "same grain size, but magnification of observation is lower"
+      },
+      "explanations": {
+        "a": "Incorrect — higher ASTM grain size number does not indicate bigger grains; it indicates finer grains.",
+  "b": "Correct — a higher ASTM grain size number corresponds to smaller (finer) grains, and the value is defined based on a standard magnification (typically 100×).",
+  "c": "Incorrect — grain size number is not about changing magnification; it represents actual grain size.",
+  "d": "Incorrect — grain size number does not depend on using lower magnification; it is standardized for comparison."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What is a major disadvantage of the intercept method for measuring grain size ?",
+      "answers": {
+        "a": "It is only applicable to grain size bigger than 100µm",
+        "b": "It does not provide information about the grain shape",
+        "c": "It is a very time-consuming process",
+        "d": "It overestimates the true grain size"
+      },
+      "explanations": {
+        "a": "Incorrect — the intercept method is not limited to grain sizes larger than 100 µm; it is applicable over a wide range of grain sizes.",
+  "b": "Incorrect — although true, this is not considered a major disadvantage; the key issue is not shape analysis but practicality.",
+  "c": "Correct — a major disadvantage of the intercept method is that it is time-consuming because it requires drawing multiple lines and counting many grain boundary intersections for statistical accuracy.",
+  "d": "Incorrect — the intercept method does not inherently overestimate grain size; it is a statistically unbiased technique when properly applied."
+},
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
