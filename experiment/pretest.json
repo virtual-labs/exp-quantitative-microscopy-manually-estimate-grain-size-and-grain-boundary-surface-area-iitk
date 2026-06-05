@@ -9,7 +9,7 @@
         "c": "Grain boundaries and twin lines",
         "d": "Surface scratches from polishing"
       },
-      " "a": "Incorrect — voids and inclusions may be visible but are not the primary features used for grain size measurement.",
+      "a": "Incorrect — voids and inclusions may be visible but are not the primary features used for grain size measurement.",
   "b": "Incorrect — micro-cracks are defects, not features used for standard grain size analysis.",
   "c": "Correct — grain boundaries (and sometimes twin lines) are revealed after etching and are used to measure grain size in metallography.",
   "d": "Incorrect — surface scratches are preparation artifacts and are removed/ignored before analysis."
