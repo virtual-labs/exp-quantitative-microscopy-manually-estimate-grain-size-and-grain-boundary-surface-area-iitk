@@ -10,11 +10,11 @@
         "d": "They are subtracted from the total count. "
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+        "a": "Incorrect — grains are not given a weight of two in the Jeffries' procedure.",
+  "b": "Incorrect — grains intersected by the test circle are not counted as full grains because that would overestimate grain count.",
+  "c": "Correct — in Jeffries' procedure, grains intersected by the test circle are counted as half to avoid boundary bias.",
+  "d": "Incorrect — intersected grains are not subtracted; they are included with fractional counting."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -27,12 +27,12 @@
         "d": "It reduces the need for multiple measurements "
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
-      "correctAnswer": "a",
+        "a": "Incorrect — higher magnification is not limited to comparison methods; it is widely used in quantitative grain size measurement.",
+  "b": "Correct — higher magnification improves resolution, making it easier to identify and accurately count very fine grains.",
+  "c": "Incorrect — ASTM grain size procedures do not mandate a fixed magnification like 500×; it depends on grain size and method.",
+  "d": "Incorrect — higher magnification does not reduce the need for multiple measurements; statistical accuracy still requires repeated sampling."
+},
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -44,11 +44,11 @@
         "d": "Jeffries' procedure method "
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+        "a": "Incorrect — Comparison method is a standard qualitative/visual method for grain size determination using reference charts.",
+  "b": "Incorrect — Intercept method is a standard quantitative stereological technique for measuring grain size.",
+  "c": "Correct — Area fraction method is not a standard grain size determination procedure; it is mainly used for phase/volume fraction analysis, not grain size measurement.",
+  "d": "Incorrect — Jeffries' procedure is a standard method for grain size determination using circle intercept counts."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -61,11 +61,11 @@
         "d": "N = 2n"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+        "a": "Correct — According to ASTM E112, the number of grains per square inch at 100× magnification is given by N = 2^(n−1).",
+  "b": "Incorrect — This does not match the ASTM standard relationship.",
+  "c": "Incorrect — Grain size number does not have a linear relationship with grain count.",
+  "d": "Incorrect — No valid ASTM relation expresses grain count as 2n."
+},
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -78,11 +78,11 @@
         "d": "To visually compare the microstructure to a standard chart"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+        "a": "Incorrect — phase fraction determination is done using stereological methods like point counting or image analysis, not the intercept method.",
+  "b": "Correct — the primary purpose of the intercept method is to count grain boundary intersections along a test line to estimate grain size.",
+  "c": "Incorrect — measuring total grain area is part of areal/planimetric methods, not intercept method.",
+  "d": "Incorrect — visual comparison with standard charts is the comparison method, not intercept method."
+},
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -95,12 +95,12 @@
         "d": "Calculating the mean intercept length of the grains"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
-      "correctAnswer": "c",
+        "a": "Incorrect — phase fraction determination is done using point counting or image analysis, not the intercept method.",
+  "b": "Correct — the intercept method measures grain size by counting grain boundary intersections along a test line.",
+  "c": "Incorrect — areal measurement is used in planimetric (area-based) methods, not the intercept method.",
+  "d": "Incorrect — comparison with standard charts belongs to the comparison method, not intercept method."
+},
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
